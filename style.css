@@ -33,7 +33,7 @@ body {
   a.button {
     display:inline-block;
     color:#FFF;
-    background-color:#c0392b;
+    background-color:#e74124;
     text-decoration:none;
     padding:10px;
     -webkit-border-radius: 10px;
@@ -46,23 +46,23 @@ body {
     transition: background 0.2s ease-out;
   }
   a.button:hover {
-    background-color:#f96e5e;
+    background-color:#eb4b2f;
   }
   a.button.small {
-    background-color:#7f8c8d;
+    background-color:#dbdde0;
     padding:8px;
     font-size:0.8em;
   }
   a.button.small:hover {
-    background-color:#95a5a6;
+    background-color:#dbdde0;
   }
   .section {
     margin:0;
     padding:40px;
-    background-color:#ecf0f1;
+    background-color:#dbdde0;
   }
   .section.odd {
-    background-color:#dbe0e0;
+    background-color:#dbdde0;
   }
   .wrapper {
     margin:40px auto;
